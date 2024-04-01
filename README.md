@@ -1,4 +1,4 @@
-# Steganography-Based-Chat-App
+
 
 clone the repo
 ```
@@ -32,4 +32,4 @@ DMSG: username : message
 FTCH: <No params>
 ```
 
-Project Video: https://drive.google.com/drive/folders/1M19qoTND_fVionSIGIuOZqdSNJfJFM-o?usp=sharing
+
